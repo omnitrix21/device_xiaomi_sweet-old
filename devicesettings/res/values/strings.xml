@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_title">Sweet Labraory</string>
+    <string name="device_settings_title">Sweet Laboratory</string>
     <string name="device_settings_summary">Ahh shit! Here we go again</string>
 
     <string name="refresh_rate_title">Refresh rate</string>
