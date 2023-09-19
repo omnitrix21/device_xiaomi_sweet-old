@@ -23,6 +23,3 @@ git clone https://github.com/PixysOS-Devices/hardware_xiaomi  -b thirteen hardwa
 
 #memecam
 git clone -b 13 https://gitlab.com/okand7946/vendor_xiaomi_sweet-miuicamera vendor/xiaomi/sweet-miuicamera
-
-#mi-dolby
-git clone -b lineage-20 https://github.com/omnitrix21/vendor_xiaomi_sweet-misound vendor/xiaomi/sweet-misound
