@@ -22,7 +22,7 @@ rm -rf hardware/xiaomi
 git clone https://github.com/PixysOS-Devices/hardware_xiaomi  -b thirteen hardware/xiaomi
 
 #memecam
-git clone -b 13 https://gitlab.com/okand7946/vendor_xiaomi_sweet-miuicamera vendor/xiaomi/sweet-miuicamera
+git clone -b 13-pixys https://gitlab.com/okand7946/vendor_xiaomi_sweet-miuicamera vendor/xiaomi/sweet-miuicamera
 
 #sony dolby
 git clone -b 13  https://github.com/omnitrix21/sony_vendor_dolby vendor/dolby
