@@ -4,7 +4,7 @@
 git clone -b 13.0 --depth=1 https://gitlab.com/itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r487747c.git prebuilts/clang/host/linux-x86/r487747c
 
 #kernel
-git clone -b sleepy --depth=1 https://github.com/itsshashanksp/kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
+git clone -b zelo-13 https://github.com/zelodev/kernel_xiaomi_sm6150 --depth=1 kernel/xiaomi/sm6150
 
 #common_vendor
 git clone https://github.com/omnitrix21/android_vendor_xiaomi_sm6150-common.git -b 13 vendor/xiaomi/sm6150-common
