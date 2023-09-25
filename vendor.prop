@@ -20,3 +20,7 @@ vendor.display.override_doze_mode=1
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+
+
+# Maintainer
+ro.spos.maintainer=Aarav
